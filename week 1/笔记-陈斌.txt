@@ -1,28 +1,28 @@
 一：开始投入资源/资金之前，需要弄清楚的问题：
-• Identify a specific social problem that you want to focus on 
-  确定您想要关注的特定社会问题
-• Gather knowledge & research about the issue and consider its cause/s 
-  收集有关该问题的知识和研究并考虑其原因
-• Be able to answer the questions:
-  能够回答问题：
-    1:Who is suffering? 
-    2:What are they suffering from? 
-    3:When did the suffering start? 
-    4:Where are they located? 
-    5:Why are they suffering? 
-    6:How many people are affected?
-    /
-    1:谁在受苦?
-    2:他们患有什么?
-    3:苦难什什么时候开始?
-    4:他们在哪里?
-    5:他们为什么受苦?
-    6:有多少⼈人受到影响?
+   • Identify a specific social problem that you want to focus on 
+     确定您想要关注的特定社会问题
+   • Gather knowledge & research about the issue and consider its cause/s 
+     收集有关该问题的知识和研究并考虑其原因
+   • Be able to answer the questions:
+     能够回答问题：
+     1:Who is suffering? 
+     2:What are they suffering from? 
+     3:When did the suffering start? 
+     4:Where are they located? 
+     5:Why are they suffering? 
+     6:How many people are affected?
+     /
+     1:谁在受苦?
+     2:他们患有什么?
+     3:苦难什什么时候开始?
+     4:他们在哪里?
+     5:他们为什么受苦?
+     6:有多少⼈人受到影响?
     
-#Key Takeaways#
-• Before starting your venture, you should be able to accurately describe the problem and its cause(s)
-#关键要点#
-• 在开始创业之前，您应该能够准确地描述问题及其原因。
+   #Key Takeaways#
+   • Before starting your venture, you should be able to accurately describe the problem and its cause(s)
+   #关键要点#
+   • 在开始创业之前，您应该能够准确地描述问题及其原因。
 
 二：How do we come up with new ideas to solve the social problem we have identified?
     我们如何提出新想法来解决我们已经确定的社会问题?
@@ -75,9 +75,57 @@
       有什么可以改变，以减少这个问题？
       4.1, What changed conditions will increase the chances problem will not occur?
            什么条件的改变会增加问题不会发生的机会?
-    5:
+  步骤四：Map Actions
+         制定行动
+    A1:Map out actions you can take that will reduce the incidence of the problem – do as many below as you are able
+      制定可以采取的措施，以减少问题的发生率 - 尽可能多地执行以下操作
+    A2:How can you:
+      你能做的：
+      2.1, Remove reasons why people are affected?
+           消除人们受影响的原因?
+      2.2, Ameliorate or lessen how people are affected?
+           改善或减少人们受影响的程度?
+      2.3, Reduce or improve on who will be affected?
+           减少或改善谁将受到影响?
+      2.4, Reduce the times when people will be affected?
+           减少人们受影响的时间?
+      2.5, Reduce the places where people will be affected?
+           减少人们受影响的地方?
+    A3:In each case, also ask how your solutions to the questions could be used to generate revenue or funding
+       在每种情况下，也要问一问你的问题的解决方案如何能被用来产生收入或资金
+    B:Map all answers to your “what to change” questions on a summarizing chart:
+      将你“应该改变什么”问题的所有答案映射到一个总结图表上:
+    B1:List all the possible changes that will ameliorate the problem
+       列出可以改善问题的所有可能的更改
+    B2:Think about how you might generate revenues or funding from these changes. Who may be willing and able to provide revenues?
+       考虑一下如何从这些变化中获得收入或资金。谁可能愿意并能够提供收入?
+    B3:List all the sources of revenues
+       列出所有收入来源
+    C1:Now select the three to five most impactful changes that you can implement
+       现在选择您可以实施的三到五个最具影响力的更改
+    C2:Put together a one page statement that describes what changes you want to implement to attack the social problem and to generate funds in doing so
+       汇总一页的声明，描述您要实施哪些变更来攻击社会问题并为此产生资金
+    C3:This is your first-cut proposed solution!
+       这是您提出的第一个解决方案！
+    *You may realize your idea will not work and you may need to start again*
+    *您可能会意识到您的想法不起作用，您可能需要重新开始*
+    
+   #Key Takeaways#
+   1:No need to invent – Try to build off others’ ideas but tailor them to your specific situation
+     无需发明 - 尝试建立其他人的想法，但根据您的具体情况量身定制
+   2:Do thorough search for similar projects that have been tried in the past
+     彻底搜索过去尝试过的类似项目
+   3:Learn what led to success and/or disappointment for these others
+     了解是什么导致了其他人的成功和/或失望
+   4:Decided what you need to and can change and how to fund this change
+     决定你需要改变什么，可以改变什么，以及如何资助这种改变
+     
+   
+  
+   
+   
            
-
+三：How do we come up with new ideas to solve the social problem we have identified?
     
       
     
