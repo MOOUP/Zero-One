@@ -57,7 +57,27 @@
            他们做错了什么
       5.2, How might you avoid their mistakes?
            你怎么能避免他们的错误？
-      
+  步骤三：What if there are no examples we can build off?
+         如果没有我们可以建立的例子怎么办？
+    1:Revisit root cause questions you asked before: what, how, why, who, when, where
+      重新审视您之前询问的根本原因问题：什么，如何，为什么，谁，何时，何地
+    2:Now add some not questions:
+      现在添加一些不是的问题：
+      2.1, Who is not affected and why?
+           谁不受影响，为什么？
+      2.2, When does it not occur and why?
+           什么时候不发生，为什么？
+      2.3, Where does it not occur and why? 
+           哪里没有出现？为什么？
+    3:Time invested increases the richness and depth of understanding
+      投入的时间增加了理解的丰富性和深度
+    4:What might be changed so that this problem is reduced?
+      有什么可以改变，以减少这个问题？
+      4.1, What changed conditions will increase the chances problem will not occur?
+           什么条件的改变会增加问题不会发生的机会?
+    5:
+           
+
     
       
     
