@@ -148,4 +148,138 @@
          
 
       
-    
+Segmentation Part 1: 
+   Analyze the hand you are dealt
+   分析您的处理理⽅方式
+   Identify important market segments into which your target population is fragmented
+   确定⽬目标⼈人群分散的重要细分市场
+   
+   一：Basic Ways in Which Groups of Beneficiaries Might be Fragmented
+      受益人群体可能被分割的基本方式
+      A, Transactional Accessibility
+         交易可访问性
+         How easily can they be accessed to experience the benefit?
+         他们可以轻松地获得这些好处吗？
+         'Differences in segment’s ability to receive the benefit, or your ability to deliver the benefit to the segment'
+         '分部获得利益的能力的差异，或者你向分部提供利益的能力的差异'
+         A1, Geographic accessibility
+             地理可访问性
+             1.1, Geographical diversity
+                  地理多样性
+                  Rural/peri-urban/urban; densely/sparsely populated, desert/forest/mountain/plains, etc.
+                  农村/城市周围/城市; 人口密集/人烟稀少，沙漠/森林/山地/平原等
+             1.2, Infrastructural conditions that enhance or inhibit the deliverability of the benefit
+                  基础设施条件,增强或抑制的产能效益
+                  Transportation, telecommunications, educational services, medical services etc. 
+                  交通，电信，教育服务，医疗服务等
+         A2, Socioeconomic accessibility
+             社会经济可及性
+             2.1, Economic well-being/status of subgroups
+                  经济福祉/分组的地位
+                  Income, socioeconomic category, age, gender etc.
+                  收入，社会经济类别，年龄，性别等
+             2.2, Group whose cultural practices/beliefs influence the way in which the benefit can be experienced/delivered
+                  其文化习俗/信仰影响可以体验/交付利益的方式的群体
+                  Religion, racial, tribal, customs, habits etc.
+                  宗教，种族，部落，习俗，习惯等
+         A3, Technical accessibility
+             技术可访问性
+             3.1, Extent to which groups have access to and/or can interact with the technology
+                  组可以访问和/或可以与技术交互的范围
+                  Education, training etc.
+                  教育，培训等
+             3.2, Governance factors
+                  治理因素
+                  Political party impact membership, suffrage differences, corruption
+                  政党影响成员资格，选举权分歧，腐败
+         A4, Competitive proximity
+             竞争力接近
+             4.1, How easily can they receive similar benefits from other competing deliverers
+                  他们如何轻易地从其他竞争交付者那里获得类似的好处
+             4.2, Level of distress
+                  遇险程度
+                  Extent to which they have been damaged by the distress 
+                  他们在多大程度上受到灾难的伤害
+             'A tough one: must part of the population perforce be triaged, at least initially?'
+             '一个艰难的问题：至少在最初阶段，必须对部分人口进行分类吗？'
+
+      B, Transactional Acceptability
+         交易可接受性
+         How willing are they to experience your intervention?
+         他们愿意体验你的干预吗？
+         B1, Appreciation of benefit
+             升值的好处
+             Extent to which subgroups understand/value the benefit
+             子组理解/重视收益的程度
+         B2, Consent requirements
+             同意要求
+             Subgroups that need approval from others to receive the benefits
+             需要其他人批准才能获得收益的小组
+         B3, Affordability
+             承受能力
+             3.1, Whether groups have resources to cover the “costs” of receiving the benefits 
+                  团体是否有资源来支付获得福利的“成本”
+                  Disposable funds, goods, time
+                  一次性资金，货物，时间
+             3.2, Locus of control 
+                  控制点
+                  Subgroups with major differences in Core Self- Evaluation (locus of control, neuroticism, self-efficacy, self-esteem)
+                  子组与主要核心自我评价的差异(控制点、神经质、自我效能感、自尊)
+      #Segmenting#
+       细分
+       For your project, first work through the list of segmentation factors to identify any major factors that break your population into meaningfully different segments
+       对于您的项目，首先要完成细分因子列表，以确定将您的人口分成有意义的不同细分的任何主要因素
+       1, Work through the list, identifying any factors that will substantively influence the segment’s acceptance (willingness to experience the proposed benefit) and their access to your proposed benefit.
+          仔细研究这份清单，找出任何实质性影响客户接受度的因素(体验提议的福利的意愿)，以及他们对你提议的福利的接受程度。
+       2, TRY TO REDUCE THE LIST TO TOP THREE FACTORS. If each factor yields only two segments, three factors will give you nine segments, whereas four will give you an increasingly unmanageable sixteen!
+          试着把清单缩减到前三个因素。如果每个因素只产生两个部分，三个因素将给你九个部分，而四个因素将给你一个越来越难以管理的16 !
+       3, As you work through the table, try to identify any remedies that can be used to counter challenges posed by the segment
+          当你整理表格时，试着找出任何可以用来应对这部分挑战的补救措施
+      #Fragmentation Factors - Summary#
+       碎片因素 - 总结
+       A, ACCESSIBILITY / 可访问性
+          1, Geographic accessibility: 
+             地理可及性:
+             Rural/peri-urban/urban; densely/sparsely populated; desert/forest/mountain/plains, etc.
+             农村/城市周边城市;人口/人烟稀少的;沙漠/森林/山/平原等
+          2, Infrastructural accessibility: 
+             基础设施可达性:
+             Transportation, telecommunications, educational services, medical services etc.
+             交通、电讯、教育服务、医疗服务等
+          3, Economic accessibility: 
+             经济可及性:
+             Income, socioeconomic class, age, gender
+             收入、社会经济阶层、年龄、性别
+          4, Cultural accessibility: 
+             文化可及性:
+             Religion, racial, tribal, customs, habits etc.
+             宗教、种族、部落、风俗习惯等
+          5, Technical accessibility: 
+             技术可及性:
+             Level of education/training etc.
+             教育/培训水平
+          6, Competitive proximity: 
+             竞争力接近
+             Benefits from competing with other deliverers?
+             与其他提供商竞争的好处？
+          7, Degree of beneficiary distress Triage?
+             受益人危难分流程度?
+       B, ACCEPTABILITY / 可接受性
+          1, Appreciation of benefit: 
+             升值的好处:
+             Understand/value the impact?  
+             理解/值的影响?
+          2, Approbation requirements: 
+             认可要求:
+             Need social approval?
+             需要社会认可吗?
+          3, Affordability: 
+             负担能力:
+             Resources to cover the “costs” 
+             支付“成本”的资源
+          4, CSE: 
+             Locus of control, (neuroticism, self-efficacy, self-esteem? )
+             控制源，（神经质，自我效能，自尊？）
+             
+             
+                  
